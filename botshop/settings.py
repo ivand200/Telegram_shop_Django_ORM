@@ -122,4 +122,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 # Telegram settings
-TOKEN = "1672693835:AAFt_EbnI3WcncgGNMlma77Oe14jRDqOqj8"
+TOKEN = "XXXXXXXXXX"
